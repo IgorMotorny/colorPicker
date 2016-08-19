@@ -1,2 +1,2 @@
 # colorPicker
-Look (here)[http://igormotorny.github.io/colorPicker/]
+Look [here](http://igormotorny.github.io/colorPicker/)
